@@ -1,0 +1,25 @@
+// Cores
+$color-primary: #3442B5; // azul dos botões e títulos
+$color-secondary: #F7CA11; // amarelo dos destaques
+$color-text: #3F3F40; // texto principal
+$color-text-light: #9F9F9F; // texto secundário
+$color-border: #BDBDBD;
+$color-white: #FFFFFF;
+
+$color-selected: #3019B2; // azul dos elementos selecionados ou em destaque
+
+// Newsletter (call to action)
+$color-bg-call-to-action: #271C47;
+$color-text-input-call-to-action: #676767;
+$color-text-button-call-to-action: #161615;
+
+// Fontes
+$font-base: 'Poppins', sans-serif; // todo o texto do site
+$font-newsletter: 'Outfit', sans-serif; // só o título da newsletter
+
+// Breakpoints
+$breakpoint-tablet: 768px;
+$breakpoint-desktop: 1200px;
+
+// Largura máxima do conteúdo
+$container-width: 1280px;

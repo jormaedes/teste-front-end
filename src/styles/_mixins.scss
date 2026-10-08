@@ -1,0 +1,12 @@
+@mixin tablet {
+    @media (max-width: #{$breakpoint-tablet}) {
+        @content;
+    }
+}
+
+@mixin container {
+    width: 100%;
+    max-width: $container-width;
+    margin: 0 auto;
+    padding: 0 16px;
+}
